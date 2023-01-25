@@ -1,9 +1,6 @@
 import React from 'react'
-import FaBeer from 'react-icons'
 import logo from '../assets/logo.png'
-import image from '../assets/image-product.png';
 import { AiOutlineUser } from 'react-icons/ai';
-import vector from '../assets/Vector.png';
 import { BiSearch } from 'react-icons/bi';
 import { AiOutlineShopping } from 'react-icons/ai'
 const Navbar = () => {
